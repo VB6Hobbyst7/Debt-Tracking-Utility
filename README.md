@@ -1,6 +1,6 @@
-# vbnet-LCTS
+# vbnet-Debt-Tracking-System
 
-LCTS (Lending Company Tracking System)
+LCTS (*Lending Company* Tracking System)
 Build Version 1.0
 
 Track those who owes you credits.
